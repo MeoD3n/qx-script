@@ -1,10 +1,5 @@
-```plantuml
-@startuml component
-actor client
-node app
-database db
-
-db -> app
-app -> client
-@enduml
+```mermaid
+    graph TD;
+        db --> app;
+        app --> client;
 ```
