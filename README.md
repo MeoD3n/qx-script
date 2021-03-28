@@ -1,7 +1,8 @@
-# Scripts
-```mermaid
-    graph TD;
-        a-->b;
-        b-->c;
-        c-->a;
-```
+@startuml component
+actor client
+node app
+database db
+
+db -> app
+app -> client
+@enduml
