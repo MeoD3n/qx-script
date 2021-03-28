@@ -1,4 +1,5 @@
 ```mermaid
+graph TD;
 class BankAccount{
     +String owner
     +BigDecimal balance
