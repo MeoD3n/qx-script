@@ -1,6 +1,8 @@
 ```mermaid
-graph TD;
-    class BankAccount
-     BankAccount : +String owner
-     BankAccount : +BigDecimal balance
+class BankAccount{
+    +String owner
+    +BigDecimal balance
+    +deposit(amount) bool
+    +withdrawl(amount)
+}
 ```
