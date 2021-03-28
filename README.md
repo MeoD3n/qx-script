@@ -1,5 +1,5 @@
 ```mermaid
-    graph TD;
-        db --> app;
-        app --> client;
+    class BankAccount
+     BankAccount : +String owner
+     BankAccount : +BigDecimal balance
 ```
