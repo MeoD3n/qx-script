@@ -1,1 +1,1 @@
-vmess=duy051199.tk:80, method=aes-128-gcm, password=a5b9b45f-fa0b-4eb9-9bfb-87987b4e4e79, obfs=ws, obfs-host=pull-hls-f16-sg01.tiktokcdn.com.akamaized.net, obfs-uri=/, fast-open=false, udp-relay=false, tag=Pi Zero 2W
+vmess=duy051199.tk:80, method=aes-128-gcm, password=a5b9b45f-fa0b-4eb9-9bfb-87987b4e4e79, obfs=ws, obfs-host=dl.kgvn.garenanow.com.akamaized.net, obfs-uri=/, fast-open=false, udp-relay=false, tag=Pi Zero 2W
